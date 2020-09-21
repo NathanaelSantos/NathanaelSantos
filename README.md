@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hey, I'm Nathan Santos! 👋
-https://www.linkedin.com/in/nathanael-santos/
 
 [![Linkedin Badge](https://img.shields.io/badge/-nathanael%20santos-B452CD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanael-santos/)](https://www.linkedin.com/in/nathanael-santos/) 
 ![Gmail Badge](https://img.shields.io/badge/-nathanaelsantos15@gmail.com-B452CD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathanaelsantos15@gmail.com)
