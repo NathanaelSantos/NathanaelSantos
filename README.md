@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NathanaelSantos&show_icons=true&theme=darck&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E066FF,D15FEE,B452CD,BF3EFF,B23AEE,9A32CD,A020F0)
+
+
+### 🏆 Github Profile Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=NathanaelSantos&theme=monokai)
 
