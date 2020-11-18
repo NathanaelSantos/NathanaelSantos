@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NathanaelSantos&show_icons=true&theme=darck&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,E066FF,D15FEE,B452CD,BF3EFF,B23AEE,9A32CD,A020F0)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NathanaelSantos&theme=monokai)]
+![trophy](https://github-profile-trophy.vercel.app/?username=NathanaelSantos&theme=monokai)
 
