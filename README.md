@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 ### 🏆 Github Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=NathanaelSantos)
+![trophy](https://github-profile-trophy.vercel.app/?username=NathanaelSantos&theme=monokai)
 
