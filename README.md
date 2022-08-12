@@ -35,14 +35,14 @@
 🤜 IT Team Leader - 2022\
 🏢 **Federal University of Sergipe** - Sergipe/SE, Brazil
 
+ <img align="right" src="img/sql-server.png" style="width: 90px;" />
  
 - 💻 **Monitor de Banco de Dados**\
-📆 2022-2023
-  T-SQL
-  SQL-Server
-🏢 **Federal University of Sergipe** - Sergipe/SE, Brazil
+📆 2022-2023\
+ T-SQL\
+ SQL-Server\
+**Federal University of Sergipe** - Sergipe/SE, Brazil
   
- 
 
 ## 📜 Certification
 
@@ -54,8 +54,12 @@
 
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  
+
+<img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
 - 👨‍💻 **Desktop Software**\
 📆 2019\
 📍 **Mineral water distributor** - Sergipe/SE, Brazil
   https://github.com/NathanaelSantos/aplicacao_kreison
+  
   
