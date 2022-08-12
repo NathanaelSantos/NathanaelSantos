@@ -35,10 +35,20 @@
 🤜 IT Team Leader - 2022\
 🏢 **Federal University of Sergipe** - Sergipe/SE, Brazil
 
+  
+
 - 💻 **Monitor de Banco de Dados**\
 📆 2022-2023
 🏢 **Federal University of Sergipe** - Sergipe/SE, Brazil
+  
+ 
 
+## Certification
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+  
+  
+  
+  
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
