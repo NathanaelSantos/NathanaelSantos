@@ -58,7 +58,7 @@
 ## 📜 Certification
 <hr>
 
-![](img/oracle_database.jpg)
+<img src="img/oracle_database.jpg" style="width: 260px" />
 <img align="right" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
   
 
