@@ -2,9 +2,8 @@
   Hi there 👋 I'm Nathan Santos 👨‍💻
 </h1>
 
-<p align='center'>
-  A mobile developer.
-</p>
+<h2 align='center'> A mobile developer <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg"  style="width: 150px;" /></h2>
+
 
 
 
