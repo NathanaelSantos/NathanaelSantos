@@ -36,7 +36,15 @@
 🏢 **Federal University of Sergipe** - Sergipe/SE, Brazil
 
 
-<h2>2️⃣ Monitor de Banco de Dados</h2>
+<img align="right" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
+
+<h2>2️⃣ Developer Trainee</h2>
+
+📆 2022\
+**Salesforce**
+
+
+<h2>3️⃣ Monitor de Banco de Dados</h2>
 <img align="right" src="img/sql-server.png" style="width: 90px;" />
 
 📆 2022-2023\
@@ -45,7 +53,7 @@
 **Federal University of Sergipe** - Sergipe/SE, Brazil
 
 
-<h2>3️⃣ Desktop Software</h2>
+<h2>4️⃣ Desktop Software</h2>
 <img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
