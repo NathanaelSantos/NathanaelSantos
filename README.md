@@ -40,8 +40,7 @@
 
 <h2>2️⃣ Developer Trainee</h2>
 
-📆 2022\
-**Salesforce**
+
 
 
 <h2>3️⃣ Monitor de Banco de Dados</h2>
