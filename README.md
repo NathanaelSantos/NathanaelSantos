@@ -36,11 +36,6 @@
 🏢 **Federal University of Sergipe** - Sergipe/SE, Brazil
 
 
-<img align="right" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
-
-<h2>2️⃣ Developer Trainee</h2>
-
-
 
 
 <h2>3️⃣ Monitor de Banco de Dados</h2>
